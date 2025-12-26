@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python with Data Analytics**
 
-- 👨‍💻 All of my projects are available at [https://drive.google.com/file/d/19bX3n3fv0we7ad-iW0s9Myzmpp_OhnH6/view?usp=sharing](https://drive.google.com/file/d/19bX3n3fv0we7ad-iW0s9Myzmpp_OhnH6/view?usp=sharing)
+- 
 
 - 💬 Ask me about **Python, Java**
 
