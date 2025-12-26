@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Python with Data Analytics**
 
-- 
-
 - 💬 Ask me about **Python, Java**
 
 - 📫 How to reach me **pavantejaaddepalli403@gmail.com**
